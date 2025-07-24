@@ -1,8 +1,8 @@
 # Credit_Card_PowerBI
-#Project Objective
+# Project Objective
 The goal of this project is to analyze credit card transaction data to uncover insights about customer behavior, merchant performance, and transaction trends. The dashboard helps stakeholders monitor spending patterns and optimize operations.
 
-#Questions (KPIs)
+# Questions (KPIs)
 What is the total GMV (Gross Merchandise Value), number of transactions, and average order value?
 
 Which customers are contributing the most to the overall spending?
@@ -31,7 +31,7 @@ Final dashboard provides real-time insights across multiple metrics
 
 
 
-#Project Insights
+# Project Insights
 A small number of high-value customers contribute to a significant share of total GMV
 
 Top 10 merchants account for more than 40% of total transaction value
@@ -42,5 +42,5 @@ Customers with frequent but low-value transactions form a separate user segment 
 
 Real-time KPIs help in tracking daily and weekly performance trends
 
-#Final Conclusion:
+# Final Conclusion:
 The Power BI dashboard helps stakeholders make data-driven decisions by identifying top-performing merchants, key customers, and trends in credit card spending. With this insight, businesses can better target promotions, manage relationships, and optimize overall performance.
