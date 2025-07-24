@@ -44,9 +44,10 @@ Real-time KPIs help in tracking daily and weekly performance trends
 
 ## 📈 Dashboard Preview
 
-[🔍 View Full Dashboard](https://github.com/Santoshs77shah/credit-card-dashboard/blob/main/credit-card-dashboard.png)
+### 🔹 Page 1 – Credit Card Customer Overview
 
-![Credit Card Dashboard](https://github.com/Santoshs77shah/credit-card-dashboard/blob/main/credit-card-dashboard.png)
+![Credit Card Dashboard Page 1](https://github.com/Santoshs77shah/Credit_Card_PowerBI/blob/main/credit-card-dashboard.png_page-0001.jpg?raw=true)
+
 
 
 # Final Conclusion:
