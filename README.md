@@ -42,5 +42,12 @@ Customers with frequent but low-value transactions form a separate user segment 
 
 Real-time KPIs help in tracking daily and weekly performance trends
 
+## 📈 Dashboard Preview
+
+[🔍 View Full Dashboard](https://github.com/Santoshs77shah/credit-card-dashboard/blob/main/credit-card-dashboard.png)
+
+![Credit Card Dashboard](https://github.com/Santoshs77shah/credit-card-dashboard/blob/main/credit-card-dashboard.png)
+
+
 # Final Conclusion:
 The Power BI dashboard helps stakeholders make data-driven decisions by identifying top-performing merchants, key customers, and trends in credit card spending. With this insight, businesses can better target promotions, manage relationships, and optimize overall performance.
