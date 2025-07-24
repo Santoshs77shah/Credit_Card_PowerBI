@@ -16,6 +16,15 @@ What is the average transaction value per customer and merchant?
 Are there customers with high frequency but low spending (or vice versa)?
 
 What are the key KPIs for daily/weekly review?
+## 📈 Dashboard Preview
+
+### 🔹 Page 1 – Credit Card Customer Overview
+
+![Credit Card Dashboard Page 1](https://github.com/Santoshs77shah/Credit_Card_PowerBI/blob/main/credit-card-dashboard.png_page-0001.jpg?raw=true)
+
+### 🔹 Page 2 – Additional Insights & Revenue Breakdown
+
+![Credit Card Dashboard Page 2](https://github.com/Santoshs77shah/Credit_Card_PowerBI/blob/main/credit-card-dashboard.png_page-0002.jpg?raw=true)
 
 
 # Process
@@ -29,8 +38,6 @@ Designed interactive dashboards with slicers, filters, KPIs, and drill-throughs
 
 Final dashboard provides real-time insights across multiple metrics
 
-
-
 # Project Insights
 A small number of high-value customers contribute to a significant share of total GMV
 
@@ -41,14 +48,6 @@ Monthly patterns show peak activity during festive seasons
 Customers with frequent but low-value transactions form a separate user segment worth targeting differently
 
 Real-time KPIs help in tracking daily and weekly performance trends
-
-## 📈 Dashboard Preview
-
-### 🔹 Page 1 – Credit Card Customer Overview
-
-![Credit Card Dashboard Page 1](https://github.com/Santoshs77shah/Credit_Card_PowerBI/blob/main/credit-card-dashboard.png_page-0001.jpg?raw=true)
-
-
 
 # Final Conclusion:
 The Power BI dashboard helps stakeholders make data-driven decisions by identifying top-performing merchants, key customers, and trends in credit card spending. With this insight, businesses can better target promotions, manage relationships, and optimize overall performance.
